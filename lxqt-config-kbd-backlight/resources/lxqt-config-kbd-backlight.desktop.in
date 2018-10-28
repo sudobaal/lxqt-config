@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Brightness
+GenericName=Keyboard Backlight Settings
+Comment=Configure keyboard backlight
+Exec=lxqt-config-kbd-backlight
+Terminal=false
+Type=Application
+Icon=brightnesssettings
+Categories=Settings;DesktopSettings;Qt;LXQt;HardwareSettings;
+OnlyShowIn=LXQt;
+
+#TRANSLATIONS_DIR=translations
